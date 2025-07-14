@@ -45,9 +45,19 @@ This repository contains notebooks and scripts for preprocessing, clustering, su
     - 241219_startrac.ipynb
 - script/  
 
+## dependencies
+
+- scanpy==1.10.2
+- scirpy==0.20.0
+- scvi-tols==1.1.6
+
 ## License
 This project is licensed under the [MIT License](LICENSE).  
 
 ## Citation
 
 Zhang, Le, Yoshiaki Yasumizu, Marion Elizabeth Deerhake, Jeonghyeon Moon, Nicholas Buitrago-Pocasangre, Anthony Russo, Haowei Wang, et al. 2025. “Inflamed Microglia like Macrophages in the Central Nervous System of Prodromal Parkinson′s Disease.” bioRxiv. https://doi.org/10.1101/2025.05.16.654530.
+
+## Acknowledgements
+
+This research was funded in part by Aligning Science Across Parkinson’s [ASAP-000529] through the Michael J. Fox Foundation for Parkinson’s Research (MJFF).
